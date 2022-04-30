@@ -1,6 +1,8 @@
 belajar beberapa bahasa pemograman
   * java
   * php
+    --< laravel
+    --< codeigniter
   * javascript
    --> nodejs
    --> reactjs
